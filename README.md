@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Harsh Vardhan Jain (@harshhjain) from Bengaluru, India. 
+- 👋 Hi, I’m [Harsh Vardhan Jain](https://github.com/harshhjain) from Bengaluru, India. 
 - 👀 I’m interested in Software development.
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Java and DSA. 
